@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.1",
+    "discord.js": "^14.13.0",
+    "google": "^2.1.0",
+    "googleapis": "^95.0.0",
+    "module": "^1.2.5"
+  }
+}
